@@ -1,0 +1,15 @@
+.vs/
+LeafFallingGame.sln
+LeafFallingGame.vcxproj
+LeafFallingGame.vcxproj.filters
+LeafFallingGame.vcxproj.user
+icon.rc
+obj/
+bin/FreeImage.dll*              
+bin/LeafFallingGame_debug.lib  
+bin/fmod.dll*
+bin/LeafFallingGame_debug.exe*  
+bin/LeafFallingGame_debug.pdb  
+bin/fmodL.dll*
+bin/LeafFallingGame_debug.exp
+bin/data/.gitkeep
